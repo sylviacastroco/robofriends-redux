@@ -1,2 +1,9 @@
 # robofriends-redux
-Updated robofriends project by adding redux
+
+Updated robofriends project by adding redux.
+
+To run the project:
+
+1. Clone this repo
+2. Run `npm install`
+3. Run `npm start`
